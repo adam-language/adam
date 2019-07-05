@@ -1,0 +1,2 @@
+# adam
+Declarative programming language
